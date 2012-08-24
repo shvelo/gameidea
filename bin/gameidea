@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+require 'gameidea'
+
+idea = gameidea
+
+puts 'What: ' + idea['what']
+puts 'Where: ' + idea['where']
+puts 'Who: ' + idea['who']
