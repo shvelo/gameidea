@@ -1,7 +1,7 @@
 #Generate ideas for a game.
-#Just for fun :)
+##Just for fun :)
 
-#How to run:
+##How to run:
 just run command "gameidea"
 
     $ gameidea
@@ -10,5 +10,5 @@ just run command "gameidea"
     Who: Ninja
 
 
-#Contributing
+##Contributing
 Please add more words in lib/data.yml
