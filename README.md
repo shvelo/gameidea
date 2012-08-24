@@ -1,5 +1,4 @@
-#Generate ideas for a game.
-##Just for fun :)
+#Generate ideas for a game. Just for fun :)
 
 ##How to run:
 just run command "gameidea"
