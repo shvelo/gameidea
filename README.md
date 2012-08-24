@@ -3,6 +3,7 @@
 
 #How to run:
 just run command "gameidea"
+
     $ gameidea
     What: Hunt
     Where: City
