@@ -1,0 +1,1 @@
+{"google":"UA-30729286-1","note":"Don't delete this file! It's used internally to help with page regeneration.","body":"##How to run:\r\njust run command \"gameidea\"\r\n\r\n    $ gameidea\r\n    What: Hunt\r\n    Where: City\r\n    Who: Ninja\r\n\r\n\r\n##Contributing\r\nPlease add more words in lib/data.yml","name":"Gameidea","tagline":"Generate new game ideas (just for fun)"}
