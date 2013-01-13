@@ -5,6 +5,10 @@ Who:
   - Pirate
   - Zombie
   - Soldier
+  - Medic
+  - Sniper
+  - Animal
+  - Potato
 Where:
   - Town
   - Castle
@@ -12,8 +16,16 @@ Where:
   - City
   - Dungeon
   - Arctic
+  - Sea
+  - Mine
+  - River
+  - Forest
+  - Mountain
 What:
   - War
   - Rescue
   - Hunt
   - Survival
+  - Arcade
+  - Smash
+  - RPG

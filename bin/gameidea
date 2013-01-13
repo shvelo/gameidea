@@ -3,6 +3,6 @@ require 'gameidea'
 
 idea = gameidea
 
-puts 'What: ' + idea['what']
-puts 'Where: ' + idea['where']
-puts 'Who: ' + idea['who']
+puts 'What: ' + idea[:what]
+puts 'Where: ' + idea[:where]
+puts 'Who: ' + idea[:who]

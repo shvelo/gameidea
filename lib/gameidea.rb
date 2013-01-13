@@ -7,5 +7,5 @@ def gameidea
   where = data['Where'].sample
   what = data['What'].sample
   
-  return {'who' => who, 'where' => where, 'what' => what}
+  return { :who => who, :where => where, :what => what }
 end
