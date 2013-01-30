@@ -2,10 +2,10 @@
 
 ## How to run:
 just run command "gameidea"
-
-    $ gameidea
-    City Zombie Survival
-
+```shell
+$ gameidea
+City Zombie Survival
+```
 
 ## Contributing
 Please add more words in lib/data.yml
