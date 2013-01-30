@@ -1,13 +1,11 @@
-#Generate ideas for a game. Just for fun :)
+# Generate ideas for a game. Just for fun :)
 
-##How to run:
+## How to run:
 just run command "gameidea"
 
     $ gameidea
-    What: Hunt
-    Where: City
-    Who: Ninja
+    City Zombie Survival
 
 
-##Contributing
+## Contributing
 Please add more words in lib/data.yml

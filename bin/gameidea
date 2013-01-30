@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
+
+$:.unshift File.join(File.dirname(__FILE__), %w[.. lib])
 require 'gameidea'
 
 idea = gameidea
 
-puts 'What: ' + idea[:what]
-puts 'Where: ' + idea[:where]
-puts 'Who: ' + idea[:who]
+puts "#{idea[:where]} #{idea[:who]} #{idea[:what]}"
