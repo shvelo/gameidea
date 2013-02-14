@@ -2,7 +2,7 @@
 
 ## How to run:
 Run command 'chmod +x bin/gameidea' in your shell.
-Run command `./bin/gameidea` in your shell.
+Then run command `./bin/gameidea` in your shell.
 
 ```shell
 $ gameidea
