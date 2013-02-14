@@ -1,7 +1,8 @@
 # Generate ideas for a game. Just for fun :)
 
 ## How to run:
-just run command `gameidea` in your shell
+Run command 'chmod +x bin/gameidea' in your shell.
+Then run command `./bin/gameidea` in your shell.
 
 ```shell
 $ gameidea
