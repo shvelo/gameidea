@@ -3,6 +3,13 @@
 $:.unshift File.join(File.dirname(__FILE__), %w[.. lib])
 require 'gameidea'
 
-idea = gameidea
+if ARGV[0]
+	num = ARGV[0].to_i
+else
+	num = 1
+end
 
-puts "#{idea[:where]} #{idea[:who]} #{idea[:what]}"
+num.times do
+	idea = gameidea
+	puts "#{idea[:where]} #{idea[:who]} #{idea[:what]}"
+end
