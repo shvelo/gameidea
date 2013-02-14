@@ -8,7 +8,7 @@ $ gameidea
 City Zombie Survival
 ```
 
-You can gemerate multiple ideas by running `gameidea <number>`, e.g. `gameidea 10` will give 10 ideas.   
+You can generate multiple ideas by running `gameidea <number>`, e.g. `gameidea 10` will give 10 ideas.   
 
 ## Contributing
 Please add more words in lib/data.yml
