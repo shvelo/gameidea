@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'gameidea'
-  s.version     = '3.6.0'
+  s.version     = '3.6.1'
   s.date        = '2013-09-05'
   s.summary     = "Game idea generator"
   s.authors     = ["Nick Shvelidze"]
